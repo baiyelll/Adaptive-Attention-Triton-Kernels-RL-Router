@@ -1,4 +1,4 @@
-# triton-swa-turing
+# Adaptive Attention: Triton Kernels + RL Router | Triton, CUDA, PyTorch, PPO | GitHub | Streamlit
 
 **Fused sliding-window attention kernels in Triton for NVIDIA Turing (sm_75 / Tesla T4), with a measured-latency study of an RL attention router.**
 
