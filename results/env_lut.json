@@ -1,0 +1,12 @@
+{
+  "torch": "2.11.0+cu130",
+  "triton": "3.6.0",
+  "cuda": "13.0",
+  "gpu": "Tesla T4",
+  "cc": [
+    7,
+    5
+  ],
+  "python": "3.13.15",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39"
+}

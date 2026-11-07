@@ -1,0 +1,8 @@
+pytest>=7.0
+pandas>=1.5
+matplotlib>=3.5
+numpy>=1.23
+# Do NOT pin torch/triton on Colab — use the preinstalled versions.
+# On a local machine with CUDA you may add:
+# torch
+# triton
